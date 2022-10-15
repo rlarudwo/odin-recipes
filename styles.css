@@ -1,0 +1,19 @@
+/* styles.css */
+
+* {
+  font-family: "Times New Roman", serif;
+  background-color: orange;
+}
+
+h1, h2, h3, img {
+  text-align: center;
+}
+
+h1, h2, h3, p, ul, ol, li, img, a {
+  background-color: white;
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
